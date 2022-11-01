@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sokcheadev2001 (Sur0)
+- 👋 Hi, I’m @sokcheadev2001 (Sur)
 - 👀 I’m interested in web technologies
-- 🌱 I’m currently learning React JS, Laravel
-- 💞️ I’m looking to collaborate on Ecommerce Software
+- 🌱 I’m currently learning React JS, Node JS
+- 💞️ I’m looking to collaborate on Full Stack Web Application
 - 📫 How to reach me: Email: sokchealeang.dev@gmail.com
