@@ -7,4 +7,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sokcheadev2001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <h3>My Stats</h3>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sokcheadev2001)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sokcheadev2001&show_icons=true&theme=radical)
